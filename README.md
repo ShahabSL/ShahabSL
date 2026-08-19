@@ -1,23 +1,24 @@
-# Hi, I'm Shahab! (maybe) a Fullstack Developer  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-💡 About Me  <br>- 💻 Passionate about Generative AI, backend development, API design, and automation<br>- ⚡ Love optimizing database queries, scaling servers, and automating workflows  <br>- 🌍 Currently in Texas
+# Shahab Lavasani
 
+**AI/ML engineer · production agents, realtime voice, applied ML, and AWS platforms**
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-lavasani-2a6860272)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahablavasani@outlook.com) 
+[Website](https://shahablavasani.com) · [LinkedIn](https://www.linkedin.com/in/shahab-lavasani-2a6860272/) · [Email](mailto:shahablavasani@outlook.com)
 
-# <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" height="23px" /> Tech Stack(mostly used for 5 mins and then mentioned):
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats(forever C):
-![](https://github-readme-stats.vercel.app/api?username=shahabsl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahabsl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabsl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build software that has to work beyond the demo: AI agents, realtime voice systems, model-backed workflows, APIs, and networked products. At Tech 42, I serve as a primary implementation engineer across client systems on AWS, working from architecture through evaluation, deployment, observability, and handoff. I am an AWS Certified Solutions Architect – Associate.
 
----
-[![](https://visitcount.itsvg.in/api?id=shahabsl&icon=0&color=0)](https://visitcount.itsvg.in)
+Outside work, I build independent systems projects in Python, Go, Rust, and TypeScript. Skirk and twoman began as practical engineering responses to connectivity constraints affecting people in Iran; together, they have earned **950+ GitHub stars**.
 
+## Selected projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahabSL/ShahabSL/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahabSL/ShahabSL/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ShahabSL/ShahabSL/output/github-snake.svg" />
-</picture>
+- **[Skirk](https://github.com/ShahabSL/Skirk)** — A Go-first encrypted transport that exposes local proxy and VPN interfaces and moves TCP streams through a Google Drive mailbox.
+- **[twoman](https://github.com/ShahabSL/twoman)** — A host-preserving relay for shared cPanel and managed CloudLinux runtimes, with Linux, Windows, and Android clients.
+- **[Calluwu](https://github.com/ShahabSL/calluwu)** — An open-source toolkit and portable Rust runtime for building realtime AI voice agents, with TypeScript SDKs and a browser WebRTC client.
+- **[Trajectory](https://github.com/ShahabSL/trajectory)** — A source-available Rust DNS-native transport with encrypted access, recursive-DNS paths, and CLI, desktop, and Android clients.
+
+## Engineering focus
+
+- **Applied AI and ML:** agentic workflows, RAG, realtime voice, computer vision, evaluation, and observability
+- **Backend and cloud:** Python, FastAPI, AWS, distributed systems, APIs, and production delivery
+- **Systems engineering:** Go, Rust, networking, protocol design, and cross-platform clients
+
+I also contribute focused improvements upstream. [JuliaLang/julia#58181](https://github.com/JuliaLang/julia/pull/58181) is a merged REPL improvement that preserves and displays the input alias used for a character.
